@@ -27,12 +27,10 @@ img {
 	border-color : red;
 }
 .tableaux {
-	background-image: url("Bois Type 1.jpg");
 	border-style : outset;
-	background-color: #FFFFBB;
 	text-align : center;
 	margin : 1% 10%;
-	border-color :  #ffffe6; 
+	border-color : #331a00; 
 }
 .peintre {
 	font-weight: bold;	
@@ -51,6 +49,7 @@ img {
 	color : white;
 }
 h2{
+	background-image: url("bois type 2.jpg");
 	border-style : outset;
 	text-align: center;
 	background-color : #99e7ff;
@@ -58,6 +57,7 @@ h2{
 	
 }
 p {
+	background-image: url("bois type 2.jpg");
 	background-color : #b3ffb3;
 	margin : 5px;
 	border-width : 10px;
@@ -65,6 +65,6 @@ p {
 	border-color : #ccffcc;
 }
 body {
-	background-image : url("papier.jpg");
+	background-image : url("Bois Type 1.jpg");
 }
 	
