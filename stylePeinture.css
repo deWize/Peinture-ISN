@@ -50,6 +50,7 @@ img {
 	color : white;
 }
 h2{
+	color : black;
 	background-image: url("bois type 2.jpg");
 	border-style : outset;
 	text-align: center;
@@ -58,6 +59,7 @@ h2{
 	
 }
 p {
+	color : black;
 	background-image: url("bois type 2.jpg");
 	background-color : #b3ffb3;
 	margin : 5px;
