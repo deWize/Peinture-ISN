@@ -27,7 +27,7 @@ img {
 	border-color : red;
 }
 .tableaux {
-	background-image: url("Bois Type 1.jpg")
+	background-image: url("Bois Type 1.jpg");
 	border-style : outset;
 	text-align : center;
 	margin : 1% 10%;
