@@ -1,0 +1,71 @@
+img {
+	vertical-align : text-top;
+	height : 200px;
+	width : 200px;
+	margin : 10px 10px 10px 10px;
+	border-style: solid;
+	border-color : black;
+	padding : 10px 10px 10px;
+	}
+.brueghel {
+	border-width : 2px;
+	border-style : inset;
+}
+.monet {
+	padding : 10px 10px 10px;
+	border-color : green;
+}
+.matisse {
+	border-color: blue;
+	border-width: 8px;
+	padding : 0px 0px 0px;
+}
+#prefere {
+	width : 300px;
+	height : 300px;
+	border-width : 2px;
+	border-color : red;
+}
+.tableaux {
+	background-image: url("Bois Type 1.jpg");
+	border-style : outset;
+	text-align : center;
+	margin : 1% 10%;
+	border-color : #331a00; 
+}
+.peintre {
+	font-weight: bold;	
+	color: green;
+}
+.par {
+	color : #3399ff;
+	text-align : center;
+}
+.piedDePage {
+	text-align : right;
+	margin : 5px;
+	border-width : 5px;
+	border-color : #a6a6a6;
+	background-color : silver;
+	color : white;
+}
+h2{
+	background-image: url("bois type 2.jpg");
+	border-style : outset;
+	text-align: center;
+	background-color : #99e7ff;
+	border-color : #ccf3ff;
+	
+}
+p {
+	background-image: url("bois type 2.jpg");
+	background-color : #b3ffb3;
+	margin : 5px;
+	border-width : 10px;
+	border-style : outset;
+	border-color : #ccffcc;
+}
+body {
+	background-image : url("bois\ type\ 3.jpg");
+}
+	
