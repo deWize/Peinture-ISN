@@ -59,6 +59,7 @@ h2{
 	
 }
 p {
+	font-weight: bold;
 	color : black;
 	background-image: url("bois type 2.jpg");
 	background-color : #b3ffb3;
