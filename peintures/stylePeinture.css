@@ -27,6 +27,7 @@ img {
 	border-color : red;
 }
 .tableaux {
+	background-image: url("Bois Type 1.jpg")
 	border-style : outset;
 	background-color: #FFFFBB;
 	text-align : center;
